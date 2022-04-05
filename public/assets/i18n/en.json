@@ -1,0 +1,9 @@
+{
+    "translation":{
+        "personInfo" : "person info",
+        "educationInfo": "education info",
+        "skills" :"skills",
+        "exprienceInfo": "exprience",
+        "socialMedia":"social network"
+    }
+}
